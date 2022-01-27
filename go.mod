@@ -1,3 +1,3 @@
 module github.com/Djacomo/hugo-module-tnd-iubenda
 
-go 1.14
+go 1.17
